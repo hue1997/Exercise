@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Auto_Login_WordPress/Codeception_test/.idea/Codeception_test.iml" filepath="$PROJECT_DIR$/../../Auto_Login_WordPress/Codeception_test/.idea/Codeception_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Code_AutoLogin/Auto_Login_WordPress/Codeception_test/.idea/Codeception_test.iml" filepath="$PROJECT_DIR$/../Code_AutoLogin/Auto_Login_WordPress/Codeception_test/.idea/Codeception_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/New_Project.iml" filepath="$PROJECT_DIR$/.idea/New_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" filepath="$PROJECT_DIR$/../../../qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SourceCode_Auto/qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" filepath="$PROJECT_DIR$/../SourceCode_Auto/qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" />
+    </modules>
+  </component>
+</project>
