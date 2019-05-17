@@ -60,6 +60,10 @@ class AddNewPage
      */
     public static $errorChar = "The input value 'a' is not parseable as an integer value.";
 
+    /**
+     * @param $param
+     * @return string
+     */
     public static function route($param)
     {
         return static::$URL.$param;

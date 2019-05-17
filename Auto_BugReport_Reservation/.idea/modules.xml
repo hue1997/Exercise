@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Auto_BugReport_Reservation.iml" filepath="$PROJECT_DIR$/.idea/Auto_BugReport_Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/.idea/New_Project.iml" filepath="$PROJECT_DIR$/../Auto_Reservation/Reservation/.idea/New_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Tham_Khao/Auto/qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" filepath="$PROJECT_DIR$/../../../Tham_Khao/Auto/qa_qc_17_03_2019/.idea/qa_qc_17_03_2019.iml" />
+    </modules>
+  </component>
+</project>

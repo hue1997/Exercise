@@ -12,15 +12,31 @@ class AddNewSteps extends \AcceptanceTester
      * @throws \Exception
      * function add new reservations
      */
-    public function addNewReservation($id, $number, $description, $time)
+//    public function addNewReservation($id, $number, $description, $time)
+//    {
+//        $I = $this;
+//        $I->amOnPage(AddNew::$URLAddNew);
+//        $I->waitForElementVisible(AddNew::$tableID, 30);
+//        $I->fillField(AddNew::$tableID,$id);
+//        $I->fillField(AddNew::$numberOfPerson, $number);
+//        $I->fillField(AddNew::$description, $description);
+//        $I->fillField(AddNew::$startTime, $time);
+//        $I->click(AddNew::$addOrEdit);
+//    }
+
+    //truyền vào theo mảng
+    public function addNewReservation($reservation = array())
     {
         $I = $this;
         $I->amOnPage(AddNew::$URLAddNew);
         $I->waitForElementVisible(AddNew::$tableID, 30);
-        $I->fillField(AddNew::$tableID,$id);
-        $I->fillField(AddNew::$numberOfPerson, $number);
-        $I->fillField(AddNew::$description, $description);
-        $I->fillField(AddNew::$startTime, $time);
+        $I->fillField(AddNew::$tableID,$reservation['id']);
+        $I->fillField(AddNew::$numberOfPerson, $reservation['number']);
+        if(isset($reservation['description'])) // check xem descrip đã khởi tạo hay chưa
+        {
+            $I->fillField(AddNew::$description, $reservation['description']); // trường hợp filed viết cũng được hay k thì dùng
+        }
+        $I->fillField(AddNew::$startTime, $reservation['time']);
         $I->click(AddNew::$addOrEdit);
     }
 
@@ -44,7 +60,7 @@ class AddNewSteps extends \AcceptanceTester
      * @throws \Exception
      * To check many cases login wrong value
      */
-    public function wrongReservations($tableID, $number, $descrip, $time, $function)
+    public function wrongReservations($reservation = array(), $function)
     {
         $I = $this;
         $I->amOnPage(AddNew::$URLAddNew);
@@ -52,7 +68,7 @@ class AddNewSteps extends \AcceptanceTester
         {
             case 'tableIDEmpty':
                 $I->comment('TableID value is empty');
-                $I->addNewReservation('','2','hello', '9');
+                $I->addNewReservation();
                 $I->waitForText(AddNew::$errorID, 30);
                 break;
             case 'tableIDChar':

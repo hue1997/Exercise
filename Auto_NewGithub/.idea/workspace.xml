@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb562af4-bdef-43c7-b9bd-6407a76d8881" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Auto_NewRepositoryGithub/NewRepository" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Auto_NewRepositoryGithub/Video_NewRepository.wmv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewRepository" beforeDir="false" afterPath="$PROJECT_DIR$/../NewRepository" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Auto_NewGithub.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Auto_NewGithub.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doAddNew.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doAddNew.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doAddNew.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doAddNew.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDChar.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDChar.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDChar.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDChar.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDEmpty.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDEmpty.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDEmpty.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTableIDEmpty.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeChar.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeChar.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeChar.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeChar.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeEmpty.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeEmpty.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeEmpty.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doEnterTimeEmpty.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberChar.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberChar.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberChar.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberChar.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberEmpty.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberEmpty.fail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberEmpty.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_output/AddNewCest.doNumberEmpty.fail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Page/AddNewPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Page/AddNewPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/AddNewSteps.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/AddNewSteps.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/acceptance/AddNewCest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/acceptance/AddNewCest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Page/Acceptance/StartPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Page/Acceptance/StartPage.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,61 +31,70 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance.suite.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/GithubCest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/_support/Page/GithubPage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/_support/Page/HomePage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/AddNewSteps.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/acceptance/AddNewCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/GithubSteps.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/HomePageSteps.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Page/AddNewPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Step/Acceptance/StartSteps.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Page/Acceptance/StartPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,6 +111,13 @@
         <option value="$PROJECT_DIR$/tests/acceptance.suite.yml" />
         <option value="$PROJECT_DIR$/tests/_support/Page/GithubPage.php" />
         <option value="$PROJECT_DIR$/tests/_support/Page/HomePage.php" />
+        <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/GithubSteps.php" />
+        <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/HomePageSteps.php" />
+        <option value="$PROJECT_DIR$/tests/acceptance/GithubCest.php" />
+        <option value="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Page/AddNewPage.php" />
+        <option value="$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Page/Acceptance/StartPage.php" />
+        <option value="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/acceptance/AddNewCest.php" />
+        <option value="$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/AddNewSteps.php" />
       </list>
     </option>
   </component>
@@ -188,55 +223,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="_support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="_support" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="_support" type="462c0819:PsiDirectoryNode" />
-              <item name="Step" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto_NewGithub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto_NewGithub" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="_support" type="462c0819:PsiDirectoryNode" />
-              <item name="Step" type="462c0819:PsiDirectoryNode" />
-              <item name="Acceptance" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_BugReport_Reservation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -269,25 +262,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557550683241</updated>
-      <workItem from="1557550685318" duration="766000" />
+      <workItem from="1557550685318" duration="1485000" />
+      <workItem from="1557627758643" duration="4926000" />
+      <workItem from="1557979928630" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="766000" />
+    <option name="totallyTimeSpent" value="6494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -295,20 +284,42 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/tests/_support/Page/GithubPage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_support/Page/HomePage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/GithubCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#7#41#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -319,31 +330,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/GithubCest.php">
+    <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/FunctionSteps.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="85">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/_support/Page/GithubPage.php">
+    <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="51">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/_support/Page/HomePage.php">
+    <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Step/Acceptance/AddNewSteps.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="119">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/acceptance/AddNewCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/GithubSteps.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/HomePageSteps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/tests/_support/Page/AddNewPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Step/Acceptance/StartSteps.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/tests/_support/Page/Acceptance/StartPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -78,5 +78,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="NewRepository" />
+    <orderEntry type="module" module-name="New_Project" />
+    <orderEntry type="module" module-name="BT_TestWeb_05052019" />
   </component>
 </module>

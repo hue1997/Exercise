@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Auto_NewGithub.iml" filepath="$PROJECT_DIR$/.idea/Auto_NewGithub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/.idea/BT_TestWeb_05052019.iml" filepath="$PROJECT_DIR$/../../../Code_Auto_ThanhBinh/BT_TestWeb_05052019/.idea/BT_TestWeb_05052019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewRepository/.idea/NewRepository.iml" filepath="$PROJECT_DIR$/../NewRepository/.idea/NewRepository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Auto_Reservation/Reservation/.idea/New_Project.iml" filepath="$PROJECT_DIR$/../Auto_Reservation/Reservation/.idea/New_Project.iml" />
     </modules>
   </component>
 </project>
